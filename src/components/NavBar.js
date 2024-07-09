@@ -56,7 +56,7 @@ function NavBar() {
             </a>
           </li>
           <li className=" cursor-pointer">
-            <option href="#contact" onClick={clickHandler}>
+            <option href="#suplier" onClick={clickHandler}>
               Find Service tags
             </option>
           </li>
